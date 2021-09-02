@@ -880,9 +880,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bomboclaat-the-app@workspace:.":
+"bomboclaat.js@workspace:.":
   version: 0.0.0-use.local
-  resolution: "bomboclaat-the-app@workspace:."
+  resolution: "bomboclaat.js@workspace:."
   dependencies:
     "@discordjs/builders": ^0.6.0
     "@discordjs/rest": ^0.1.0-canary.0

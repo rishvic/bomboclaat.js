@@ -1,6 +1,9 @@
-# bomboclaat-the-app
+# bomboclaat.js
 
 A Discord bot. Written using [discord.js](https://discord.js.org/).
+Initially, it was planned to be written with
+[discord.py](http://discordpy.rtfd.org/en/latest). But turns out,
+[development on that library has ceased](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1).
 
 ## Running the Bot
 
@@ -13,7 +16,7 @@ A Discord bot. Written using [discord.js](https://discord.js.org/).
 
 ```sh
 git clone https://github.com/Colocasian/bomboclaat-the-app.git
-cd bomboclaat-the-app
+cd bomboclaat.js
 
 # Install node dependencies and setup git hooks
 yarn install

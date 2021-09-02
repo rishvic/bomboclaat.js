@@ -1,9 +1,9 @@
 {
-  "name": "bomboclaat-the-app",
+  "name": "bomboclaat.js",
   "version": "0.1.0",
   "description": "A Discord bot.",
   "main": "index.js",
-  "repository": "github:Colocasian/bomboclaat-the-app",
+  "repository": "github:Colocasian/bomboclaat.js",
   "license": "AGPL-3.0-or-later",
   "private": true,
   "scripts": {
